@@ -15,9 +15,9 @@
 
 ---
 
-##  📁 About the Project  
+<h1 align="center">📁 About the Project</h1>h1> 
 
-This project is a fun and beginner-friendly way to learn how JavaScript manipulates the **DOM.**  
+<p>This project is a fun and beginner-friendly way to learn how JavaScript manipulates the **DOM.**  
 Each **button** is a color swatch — clicking it updates the page **background** and displays the selected **hex code** beautifully.  
 
 It’s not just a project, it’s a ✨ colorful experience ✨ that shows how simple code can create **interactive designs.**  
