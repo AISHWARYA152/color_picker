@@ -7,18 +7,16 @@
 
 ---
 
-<h2 align="center">🌐 Live Demo</h2>
+🌐 Live Demo
 
-<p align="center">
   👉 <a href="https://aishwarya152.github.io/color_picker/"><b>click here to view-color_picker</b></a>
-</p>
 
 ---
 
-<h1 align="center">📁 About the Project</h1>h1> 
+📁 About the Project
 
-<p>This project is a fun and beginner-friendly way to learn how JavaScript manipulates the **DOM.**  
-Each **button** is a color swatch — clicking it updates the page **background** and displays the selected **hex code** beautifully.  
+<p>This project is a fun and beginner-friendly way to learn how JavaScript manipulates the <b>DOM.</b>  
+Each <b>button</b> is a color swatch — clicking it updates the page <b>background</b> and displays the selected <b>hex code</b> beautifully.  
 
 It’s not just a project, it’s a ✨ colorful experience ✨ that shows how simple code can create **interactive designs.**  
 
